@@ -2,7 +2,11 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
+<<<<<<< HEAD
+      <webServer id="04aedfb6-9aa8-4a65-85b6-5c0ce285609f" name="korea.uz" url="http//korea.uz">
+=======
       <webServer id="c9584cab-7cdb-4986-896c-ba6254945fec" name="korea.uz" url="http://korea.uz">
+>>>>>>> 1d1886996437fa94046950ef9270a0387fd5d426
         <fileTransfer mountedRoot="C:\xampp\htdocs\korea" accessType="MOUNT" port="0" />
       </webServer>
     </option>
