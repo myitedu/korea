@@ -1,2 +1,3 @@
 <?php
-echo"salom";
+$variable = "salom";
+echo $variable;
